@@ -1,0 +1,5 @@
+/Users/HXH/Desktop/study/code/dotnet/soapkit/soapkit/bin/Debug/soapkit.exe
+/Users/HXH/Desktop/study/code/dotnet/soapkit/soapkit/bin/Debug/soapkit.pdb
+/Users/HXH/Desktop/study/code/dotnet/soapkit/soapkit/obj/x86/Debug/soapkit.csproj.CoreCompileInputs.cache
+/Users/HXH/Desktop/study/code/dotnet/soapkit/soapkit/obj/x86/Debug/soapkit.exe
+/Users/HXH/Desktop/study/code/dotnet/soapkit/soapkit/obj/x86/Debug/soapkit.pdb

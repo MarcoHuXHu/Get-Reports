@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{96450AE2-CCEA-41DF-A53C-49E5794B91CE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="soapkit/Program.cs">
+    <Files>
+      <File FileName="soapkit/Program.cs" Line="14" Column="78" />
+      <File FileName="soapkit/ServiceProxy.cs" Line="150" Column="1" />
+      <File FileName="soapkit/Properties/Settings.cs" Line="9" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="soapkit/Program.cs" line="23" offsetX="516" offsetY="330" expression="reports.ChildNodes" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.soapkit PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
